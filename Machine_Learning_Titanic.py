@@ -1,4 +1,4 @@
-mport pandas as pd 
+import pandas as pd 
  
 # Step 1. Loading and cleaning data
 df = pd.read_csv('titanic.csv')
